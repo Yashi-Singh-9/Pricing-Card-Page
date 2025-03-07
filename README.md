@@ -35,12 +35,13 @@ Users should be able to:
 ![](images/desktop-design.png)
 
 **Mobile Design**
+
 <img src="images/mobile-design.png" height="750" width="auto">
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendpro.dev/frontend-coding-challenges/pricing-card-page-0nkDZvhphqvSP3b9hKIc/solutions/d3NAKDpBYLPU3qgBe6xc)
+- Live Site URL: [Live](https://yashi-singh-9.github.io/Pricing-Card-Page/)
 
 ## My Process
 
